@@ -5,7 +5,8 @@
 
 public class HelloWorld {
 	
-	public static void HelloWorld(String args[]){
+	public static void main(String args[]){
 		System.out.print("Hey Java World!\nLooking Forward To Learning New Things!!");
 	}
 }
+
