@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Verify Output Of Program",
+      "setup": "javac HelloWorld.java",
+      "run": "java HelloWorld",
+      "input": "",
+      "output": "Hello World!\r\nI am looking forward to learning about Java!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Contains Two println statements",
+      "setup": "",
+      "run": "grep -c println HelloWorld.java",
+      "input": "",
+      "output": "2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Program Compiles",
+      "setup": "javac HelloWorld.java",
+      "run": "java HelloWorld",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
