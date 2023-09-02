@@ -6,8 +6,8 @@
 public class HelloWorld {
 	
 	public static void main(String args[]){
-		System.out.println("Hey Java World!");
-		System.out.println("Looking Forward To Learning New Things!!");
+		System.out.println("Hello World!");
+		System.out.println("I am looking forward to learning about Java!");
 	}
 }
 
