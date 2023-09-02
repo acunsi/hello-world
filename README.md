@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11706312&assignment_repo_type=AssignmentRepo)
 # Persona Statement
 As a Java instructor, I want to evaluate your basic understanding of Java.  This repository provides a simple Java program that WILL NOT COMPILE!  You need to evaluate the Java program and determine why it will not compile and to optimize it somewhat.
 
